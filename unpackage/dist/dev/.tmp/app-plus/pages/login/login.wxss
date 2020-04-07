@@ -1,0 +1,35 @@
+.login .logo.data-v-6ed915d4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 400rpx;
+}
+.login .logo .logoImg.data-v-6ed915d4 {
+  margin: auto;
+  width: 250rpx;
+  height: 250rpx;
+}
+.login .loginArea.data-v-6ed915d4 {
+  padding: 0 20rpx;
+}
+.login .btn.data-v-6ed915d4 {
+  margin-top: 50rpx;
+}
+.login .btn .loginSubmit.data-v-6ed915d4 {
+  width: 90%;
+}
+.login .router.data-v-6ed915d4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 0 40rpx;
+  margin-top: 30rpx;
+}
+

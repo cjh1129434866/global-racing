@@ -1,0 +1,42 @@
+.wgt-inlineInput.data-v-1955948c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0 20rpx;
+  background: #036;
+  line-height: 80rpx;
+  border-bottom: 2rpx solid #006;
+}
+.wgt-inlineInput .textOrIcon.data-v-1955948c {
+  width: 20%;
+}
+.wgt-inlineInput .inp.data-v-1955948c {
+  width: 80%;
+}
+.wgt-inlineInput .inp input.data-v-1955948c {
+  height: 80rpx;
+  width: 70%;
+}
+.wgt-inlineInput .textOrPassword.data-v-1955948c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: nowrap;
+      -ms-flex-wrap: nowrap;
+          flex-wrap: nowrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.wgt-inlineInput .textOrPassword .uni-icon.data-v-1955948c {
+  width: 40px;
+  height: 80rpx;
+  line-height: 80rpx;
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+

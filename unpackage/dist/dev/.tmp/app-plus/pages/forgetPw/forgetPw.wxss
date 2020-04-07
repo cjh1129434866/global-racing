@@ -1,0 +1,23 @@
+.forgetPw.data-v-8894c100 {
+  padding: 0 20rpx;
+}
+.forgetPw .logo.data-v-8894c100 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 400rpx;
+}
+.forgetPw .logo .logoImg.data-v-8894c100 {
+  margin: auto;
+  width: 250rpx;
+  height: 250rpx;
+}
+.forgetPw .btn.data-v-8894c100 {
+  margin-top: 50rpx;
+}
+.forgetPw .btn .forgetPwSubmit.data-v-8894c100 {
+  width: 90%;
+}
+

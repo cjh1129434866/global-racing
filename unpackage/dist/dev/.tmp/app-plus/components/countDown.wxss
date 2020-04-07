@@ -1,0 +1,16 @@
+.countDown .code.data-v-c6a0b228 {
+  position: relative;
+  width: 150rpx;
+}
+.countDown .code.data-v-c6a0b228::before {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  margin-top: -20rpx;
+  margin-left: -30rpx;
+  content: '';
+  width: 2rpx;
+  height: 40rpx;
+  background: #006;
+}
+

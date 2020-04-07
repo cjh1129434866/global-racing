@@ -1,0 +1,10 @@
+.set.data-v-4ddd9546 {
+  padding: 20rpx;
+}
+.set .marginAuto .exit.data-v-4ddd9546 {
+  margin-top: 50rpx;
+}
+.set .marginAuto .exit button.data-v-4ddd9546 {
+  width: 90%;
+}
+

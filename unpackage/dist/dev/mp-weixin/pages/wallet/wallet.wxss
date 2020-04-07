@@ -1,0 +1,100 @@
+.wallet .currencyList.data-v-2f0deb20 {
+  margin-top: 20rpx;
+  padding-bottom: 50rpx;
+  background: #f2f2f2;
+}
+.wallet .currencyList .search.data-v-2f0deb20 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 20rpx;
+}
+.wallet .currencyList .search .left.data-v-2f0deb20 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.wallet .currencyList .search .left .search-inp-wapper.data-v-2f0deb20 {
+  margin-left: 10rpx;
+}
+.wallet .currencyList .search .right.data-v-2f0deb20 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 55%;
+  font-size: 24rpx;
+  text-align: right;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+.wallet .currencyList .search .right .text.data-v-2f0deb20 {
+  line-height: 50rpx;
+}
+.wallet .currencyList .list .list-wapper.data-v-2f0deb20 {
+  padding: 0 20rpx;
+}
+.wallet .currencyList .list .list-wapper .list-item.data-v-2f0deb20 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  height: 100rpx;
+  border-top: 1rpx solid #e4e4e4;
+}
+.wallet .currencyList .list .list-wapper .list-item .left.data-v-2f0deb20 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.wallet .currencyList .list .list-wapper .list-item .left .logo.data-v-2f0deb20 {
+  margin-right: 10rpx;
+  width: 40rpx;
+  height: 40rpx;
+}
+.wallet .currencyList .list .list-wapper .list-item .left .logo .logoImg.data-v-2f0deb20 {
+  width: 100%;
+  height: 100%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+}
+.wallet .currencyList .list .list-wapper .list-item .left .symbolName.data-v-2f0deb20 {
+  line-height: 40rpx;
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.wallet .currencyList .list .list-wapper .list-item .right.data-v-2f0deb20 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.wallet .currencyList .list .list-wapper .list-item .right .balance.data-v-2f0deb20 {
+  margin-right: 20rpx;
+  font-size: 26rpx;
+}
+.wallet .currencyList .list .list-wapper .list-item .right .balance .cny.data-v-2f0deb20 {
+  color: #c0c0c0;
+}
+

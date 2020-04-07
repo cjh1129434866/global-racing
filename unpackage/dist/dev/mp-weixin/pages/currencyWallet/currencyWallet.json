@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "wallet-assets": "/components/walletAssets"
+  }
+}

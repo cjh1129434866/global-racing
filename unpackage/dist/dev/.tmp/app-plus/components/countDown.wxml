@@ -1,0 +1,1 @@
+<view class="countDown data-v-c6a0b228"><view class="{{['code alignCenter data-v-c6a0b228',(!flag)?'countTime':'']}}" id="com-countDown" data-event-opts="{{[['tap',[['eClick',['$event']]]]]}}" bindtap="__e">{{text}}</view></view>

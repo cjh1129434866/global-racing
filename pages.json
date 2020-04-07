@@ -1,0 +1,264 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "环球快车"
+			}
+		},
+		{
+			"path": "pages/me/me",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"app-plus": {
+					"titleNView": false //禁用原生导航栏
+				}
+			}
+		},
+		{
+			"path": "pages/mining/mining",
+			"style": {
+				"navigationBarTitleText": "挖矿"
+			}
+		},
+		{
+			"path": "pages/myCar/myCar",
+			"style": {
+				"navigationBarTitleText": "我的车场"
+			}
+		},
+		{
+			"path": "pages/wallet/wallet",
+			"style": {
+				"navigationBarTitleText": "我的钱包"
+			}
+		}
+      ,{
+            "path" : "pages/currencyWallet/currencyWallet",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/adoptionRecord/adoptionRecord",
+            "style" : {
+							"navigationBarTitleText": "领养记录"
+						}
+        }
+        ,{
+            "path" : "pages/transferRecord/transferRecord",
+            "style" : {
+							"navigationBarTitleText": "转让记录"
+						}
+        }
+        ,{
+            "path" : "pages/appointmentRecord/appointmentRecord",
+            "style" : {
+								"navigationBarTitleText": "预约记录"
+						}
+        }
+        ,{
+            "path" : "pages/invite/invite",
+            "style" : {
+								"navigationBarTitleText": "邀请好友"
+						}
+        }
+        ,{
+            "path" : "pages/accountsReceivable/accountsReceivable",
+            "style" : {
+							"navigationBarTitleText": "收款账户"
+						}
+        }
+        ,{
+            "path" : "pages/addPayMethod/addPayMethod",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/poster/poster",
+            "style" : {
+							"navigationBarTitleText": "推广海报"
+						}
+        }
+        ,{
+            "path" : "pages/verified/verified",
+            "style" : {
+								"navigationBarTitleText": "实名认证",
+								"app-plus": {
+									"titleNView": {
+										"buttons": [
+											{
+												"text": "修改",
+												"fontSize": "14px"
+											}
+										] 
+									}
+								}
+						}
+        }
+        ,{
+            "path" : "pages/customerService/customerService",
+            "style" : {
+								"navigationBarTitleText": "客服中心"
+						}
+        }
+        ,{
+            "path" : "pages/artist/artist",
+            "style" : {
+							"navigationBarTitleText": "客服中心"
+						}
+        }
+        ,{
+            "path" : "pages/set/set",
+            "style" : {
+							"navigationBarTitleText": "设置"
+						}
+        }
+        ,{
+            "path" : "pages/changeNickName/changeNickName",
+            "style" : {
+							"navigationBarTitleText": "修改昵称"
+						}
+        }
+        ,{
+            "path" : "pages/changeLoginPw/changeLoginPw",
+            "style" : {
+							"navigationBarTitleText": "修改登陆密码"
+						}
+        }
+        ,{
+            "path" : "pages/countryCode/countryCode",
+            "style" : {
+							"navigationBarTitleText": "国家编号"
+						}
+        }
+        ,{
+            "path" : "pages/teamIncome/teamIncome",
+            "style" : {
+							"navigationBarTitleText": "团队收益",
+							"app-plus": {
+								"titleNView": {
+									"buttons": [
+										{
+											"text": "兑换",
+											"fontSize": "14px"
+										}
+									] 
+								}
+							}
+						}
+        }
+        ,{
+            "path" : "pages/login/login",
+            "style" : {
+								"navigationBarTitleText": "登陆",
+								"app-plus": {
+									"titleNView": {
+										"autoBackButton":"false",
+										"buttons": [{
+											"text": "简体中文",
+											"fontSize": "14",
+											"select": true,
+											"width": "auto"
+										}]
+									}
+								}
+						}
+        }
+        ,{
+            "path" : "pages/register/register",
+            "style" : {
+							"navigationBarTitleText": "注册",
+								"app-plus": {
+									"titleNView": {
+										"buttons": [{
+											"text": "简体中文",
+											"fontSize": "14",
+											"select": true,
+											"width": "auto"
+										}]
+									}
+								}
+						}
+        }
+        ,{
+            "path" : "pages/forgetPw/forgetPw",
+            "style" : {
+							"navigationBarTitleText": "忘记密码"
+						}
+        }
+        ,{
+            "path" : "pages/recharge/recharge",
+            "style" : {
+							"navigationBarTitleText": "充值"
+						}
+        }
+        ,{
+            "path" : "pages/fuelBalance/fuelBalance",
+            "style" : {
+							"navigationBarTitleText": "燃油",
+								"app-plus": {
+									"titleNView": {
+										"buttons": [{
+											"text": "转出",
+											"fontSize": "14",
+											"width": "auto"
+										}]
+									}
+								}
+						}
+        }
+        ,{
+            "path" : "pages/transferOut/transferOut",
+            "style" : {
+							"navigationBarTitleText": "转出"
+						}
+        }
+        ,{
+            "path" : "pages/accountAppeal/accountAppeal",
+            "style" : {
+							"navigationBarTitleText": "账号申诉"
+						}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "环球快车",
+		"navigationBarBackgroundColor": "#003366",
+		"backgroundColor": "#003366"
+	},
+	"tabBar": {
+		"color": "#ffffff",
+		"selectedColor": "gray",
+		"backgroundColor": "#003366",
+		"list": [
+			{
+				"pagePath": "pages/index/index",
+				"text": "车场",
+				"iconPath": "static/tabBarIcon/me.png",
+				"selectedIconPath": "static/tabBarIcon/me_sel.png"
+			},
+			{
+				"pagePath": "pages/myCar/myCar",
+				"text": "我的车",
+				"iconPath": "static/tabBarIcon/me.png",
+				"selectedIconPath": "static/tabBarIcon/me_sel.png"
+			},
+			{
+				"pagePath": "pages/mining/mining",
+				"text": "挖矿",
+				"iconPath": "static/tabBarIcon/me.png",
+				"selectedIconPath": "static/tabBarIcon/me_sel.png"
+			},
+			{
+				"pagePath": "pages/wallet/wallet",
+				"text": "钱包",
+				"iconPath": "static/tabBarIcon/me.png",
+				"selectedIconPath": "static/tabBarIcon/me_sel.png"
+			},
+			{
+				"pagePath": "pages/me/me",
+				"text": "我的",
+				"iconPath": "static/tabBarIcon/me.png",
+				"selectedIconPath": "static/tabBarIcon/me_sel.png"
+			}
+		]
+	}
+}

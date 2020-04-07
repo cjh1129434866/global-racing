@@ -1,0 +1,10 @@
+.changeLoginPw .info.data-v-39c692c2 {
+  padding: 20rpx;
+}
+.changeLoginPw .btn.data-v-39c692c2 {
+  margin-top: 50rpx;
+}
+.changeLoginPw .btn button.data-v-39c692c2 {
+  width: 90%;
+}
+

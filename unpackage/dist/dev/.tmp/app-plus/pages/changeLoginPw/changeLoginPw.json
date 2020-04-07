@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "修改登陆密码",
+  "usingComponents": {
+    "inline-input": "/components/inlineInput",
+    "count-down": "/components/countDown"
+  }
+}

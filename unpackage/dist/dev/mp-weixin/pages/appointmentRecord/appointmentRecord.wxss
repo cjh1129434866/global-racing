@@ -1,0 +1,30 @@
+.appointmentRecord .record.data-v-892cf83c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 20rpx 20rpx;
+  line-height: 40rpx;
+}
+.appointmentRecord .record .left.data-v-892cf83c {
+  width: 45%;
+}
+.appointmentRecord .record .left .recordName.data-v-892cf83c {
+  font-size: 28rpx;
+}
+.appointmentRecord .record .left .recordTime.data-v-892cf83c {
+  font-size: 24rpx;
+}
+.appointmentRecord .record .right.data-v-892cf83c {
+  width: 55%;
+  text-align: right;
+  font-size: 24rpx;
+}
+.appointmentRecord .record .right .recordNum.data-v-892cf83c {
+  color: #f00;
+}
+

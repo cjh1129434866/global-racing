@@ -1,0 +1,59 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/me/me",
+    "pages/mining/mining",
+    "pages/myCar/myCar",
+    "pages/wallet/wallet",
+    "pages/currencyWallet/currencyWallet",
+    "pages/adoptionRecord/adoptionRecord",
+    "pages/transferRecord/transferRecord",
+    "pages/appointmentRecord/appointmentRecord",
+    "pages/invite/invite"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "环球快车",
+    "navigationBarBackgroundColor": "#003366",
+    "backgroundColor": "#003366"
+  },
+  "tabBar": {
+    "color": "#ffffff",
+    "selectedColor": "gray",
+    "backgroundColor": "#003366",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "车场",
+        "iconPath": "static/tabBarIcon/me.png",
+        "selectedIconPath": "static/tabBarIcon/me_sel.png"
+      },
+      {
+        "pagePath": "pages/myCar/myCar",
+        "text": "我的车",
+        "iconPath": "static/tabBarIcon/me.png",
+        "selectedIconPath": "static/tabBarIcon/me_sel.png"
+      },
+      {
+        "pagePath": "pages/mining/mining",
+        "text": "挖矿",
+        "iconPath": "static/tabBarIcon/me.png",
+        "selectedIconPath": "static/tabBarIcon/me_sel.png"
+      },
+      {
+        "pagePath": "pages/wallet/wallet",
+        "text": "钱包",
+        "iconPath": "static/tabBarIcon/me.png",
+        "selectedIconPath": "static/tabBarIcon/me_sel.png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "iconPath": "static/tabBarIcon/me.png",
+        "selectedIconPath": "static/tabBarIcon/me_sel.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,154 @@
+.mining .top.data-v-78a69b40 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 50rpx 40rpx 0;
+  height: 200rpx;
+  color: #e4880a;
+  font-size: 28rpx;
+}
+.mining .top .node.data-v-78a69b40 {
+  line-height: 50rpx;
+}
+.mining .top .rule-wapper.data-v-78a69b40 {
+  width: 200rpx;
+  text-align: right;
+}
+.mining .top .rule-wapper .play.data-v-78a69b40,
+.mining .top .rule-wapper .welfare.data-v-78a69b40 {
+  display: inline-block;
+  margin-bottom: 30rpx;
+  width: 160rpx;
+  height: 50rpx;
+  line-height: 50rpx;
+  border-radius: 30rpx;
+}
+.mining .top .rule-wapper .play.data-v-78a69b40 {
+  border: 1rpx solid #e4880a;
+}
+.mining .top .rule-wapper .welfare.data-v-78a69b40 {
+  color: #fff;
+  background: #e4880a;
+}
+.mining .middle.data-v-78a69b40 {
+  margin-top: 100rpx;
+  padding: 0 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.mining .middle .img.data-v-78a69b40 {
+  width: 490rpx;
+  height: 496rpx;
+}
+.mining .middle .img .carImg.data-v-78a69b40 {
+  width: 100%;
+  height: 490rpx;
+}
+.mining .middle .fule.data-v-78a69b40 {
+  width: 210rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+.mining .middle .fule .percent.data-v-78a69b40 {
+  position: relative;
+  width: 20rpx;
+  height: 496rpx;
+  border-right: 2rpx solid #676776;
+}
+.mining .middle .fule .percent .scale.data-v-78a69b40 {
+  margin-bottom: 25rpx;
+  width: 20rpx;
+  height: 2rpx;
+  background: #676776;
+}
+.mining .middle .fule .percent .value-waper.data-v-78a69b40 {
+  position: absolute;
+  left: -160rpx;
+  top: 40rpx;
+  font-size: 28rpx;
+}
+.mining .middle .fule .percent .value-waper .line .line1.data-v-78a69b40,
+.mining .middle .fule .percent .value-waper .line .line2.data-v-78a69b40 {
+  width: 2rpx;
+  background: #fff;
+}
+.mining .middle .fule .percent .value-waper .line .line1.data-v-78a69b40 {
+  margin-left: 68rpx;
+  margin-top: 20rpx;
+  height: 100rpx;
+  -webkit-transform: rotate(-10deg);
+      -ms-transform: rotate(-10deg);
+          transform: rotate(-10deg);
+}
+.mining .middle .fule .percent .value-waper .line .line2.data-v-78a69b40 {
+  margin-left: 94rpx;
+  margin-top: -8rpx;
+  height: 50rpx;
+  -webkit-transform: rotate(-45deg);
+      -ms-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+}
+.mining .middle .fule .progress.data-v-78a69b40 {
+  margin-left: 20rpx;
+  width: 40rpx;
+  background: #ffc0cb;
+  border-radius: 40rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+.mining .middle .fule .progress .has.data-v-78a69b40 {
+  height: 300rpx;
+  background: #c63;
+  border-radius: 0 0 40rpx 40rpx;
+}
+.mining .bottom.data-v-78a69b40 {
+  padding: 188rpx 40rpx;
+  height: 52rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 100%;
+}
+.mining .bottom .btn.data-v-78a69b40 {
+  display: inline-block;
+  width: 160rpx;
+  height: 50rpx;
+  line-height: 50rpx;
+  border-radius: 30rpx;
+  border: 1rpx solid #e4880a;
+  color: #e4880a;
+  font-size: 28rpx;
+}
+.mining .bottom .btn.accelerate.data-v-78a69b40 {
+  margin-right: 20rpx;
+}
+

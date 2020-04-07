@@ -1,0 +1,103 @@
+export default {
+	"index": {
+		text: 'chechang'
+	},
+  "phoneCode": [
+		{
+		  "letter": "A",
+			"data": ['AFGHANISTAN +93', 'ALBANIA +355', 'ALGERIA +213', 'AMERICAN SAMOA +684', 'ANDORRA +376', 'ANGOLA +244', 'ANGUILLA +1264', 'ANTIGUA AND BARBUDA +1268', 'ARGENTINA +54', 'ARMENIA +374', 'AUSTRALIA +61', 'AUSTRIA +43', 'AZERBAIJAN +994']
+		},
+		{
+			 "letter": "B",
+			 "data": ['BAHAMAS +1242', 'BAHRAIN +973', 'BANGLADESH +880', 'BARBADOS +1246', 'BELARUS +375', 'BELGIUM +32', 'BELIZE +501', 'BENIN +229', 'BERMUDA +1441', 'BOLIVIA, PLURINATIONAL STATE OF +591', 'BOTSWANA +267', 'BRAZIL +55', 'BRUNEI DARUSSALAM +673', 'BULGARIA +359', 'BURKINA FASO +226', 'BURUNDI +257']
+		},
+		{
+			"letter": "C",
+			"data": ['CAMBODIA +855', 'CAMEROON +237', 'CANADA +1', 'CAYMAN ISLANDS +1345', 'CENTRAL AFRICAN REPUBLIC +236', 'CHAD +235', 'CHILE +56', 'CHINA +86', 'COLOMBIA +57', 'CONGO +242', 'COOK ISLANDS +682', 'COSTA RICA +506', 'CÔTE DIVOIRE +225', 'CUBA +53', 'CYPRUS +357', 'CZECH REPUBLIC +420']
+		},
+		{
+			"letter": "D",
+			"data": ['DENMARK +45', 'DJIBOUTI +253', 'DOMINICAN REPUBLIC +1890']
+		},
+		{
+			"letter": "E",
+			"data": ['ECUADOR +593', 'EGYPT +20', 'EL SALVADOR +503', 'ESTONIA +372', 'ETHIOPIA +251']
+		},
+		{
+		  "letter": "F",
+			"data": ['FIJI +679', 'FINLAND +358', 'FRANCE +33', 'FRENCH GUIANA +594', 'FRENCH POLYNESIA +689']
+		},
+		{
+			"letter": "G",
+			"data": ['GABON +241', 'GAMBIA +220', 'GEORGIA +995', 'GERMANY +49', 'GHANA +233', 'GIBRALTAR +350', 'GREECE +30', 'GRENADA +1809', 'GUAM +1671', 'GUATEMALA +502', 'GUINEA +224', 'GUYANA +592']
+		},
+		{
+			"letter": "H",
+			"data": ['HAITI +509', 'HONDURAS +504', 'HONG KONG +852', 'HUNGARY +36']
+		},
+		{
+		  "letter": "I",
+			"data": ['ICELAND +354', 'INDIA +91', 'INDONESIA +62', 'IRAN, ISLAMIC REPUBLIC OF +98', 'IRAQ +964', 'IRELAND +353', 'ISRAEL +972', 'ITALY +39']
+		},
+		{
+			 "letter": "J",
+			 "data": ['JAMAICA +1876', 'JAPAN +81', 'JORDAN +962']
+		},
+		{
+			 "letter": 'K',
+			 "data": ['KAZAKHSTAN +327', 'KENYA +254', 'KOREA, DEMOCRATIC PEOPLES REPUBLIC OF +850', 'KOREA, REPUBLIC OF +82', 'KUWAIT +965', 'KYRGYZSTAN +331']
+		},
+		{
+		  "letter": 'L',
+			"data": ['LAO PEOPLES DEMOCRATIC REPUBLIC +856', 'LATVIA +371', 'LEBANON +961', 'LESOTHO +266', 'LIBERIA +231', 'LIBYAN ARAB JAMAHIRIYA +218', 'LIECHTENSTEIN +423', 'LITHUANIA +370', 'LUXEMBOURG +352']
+		},
+		{
+		  "letter": 'M',
+			"data": ['MACAO +853', 'MADAGASCAR +261', 'MALAWI +265', 'MALAYSIA +60', 'MALDIVES +960', 'MALI +223', 'MALTA +356', 'MARTINIQUE +596', 'MAURITIUS +230', 'MEXICO +52', 'MOLDOVA, REPUBLIC OF +373', 'MONACO +377', 'MONGOLIA +976', 'MONTSERRAT +1664', 'MOROCCO +212', 'MOZAMBIQUE +258', 'MYANMAR +95']
+		},
+		{
+		  "letter": 'N',
+		  "data": ['NAMIBIA +264', 'NAURU +674', 'NEPAL +977', 'NETHERLANDS +31', 'NETHERLANDS ANTILLES +599', 'NEW ZEALAND +64', 'NICARAGUA +505', 'NIGER +227', 'NIGERIA +234', 'NORWAY +47']
+		},
+		{
+		  "letter": 'O',
+			"data": ['OMAN +968']
+		},
+		{
+			"letter": 'P',
+			"data": ['PAKISTAN +92', 'PANAMA +507', 'PAPUA NEW GUINEA +675', 'PARAGUAY +595', 'PERU +51', 'PHILIPPINES +63', 'POLAND +48', 'PORTUGAL +351', 'PUERTO RICO +1787']
+		},
+		{
+			"letter": 'Q',
+			"data": ['QATAR +974']
+		},
+		{
+			"letter": 'R',
+			"data": ['REUNION +262', 'ROMANIA +40', 'RUSSIAN FEDERATION +7']
+		},
+		{
+			"letter": 'S',
+			"data": ['SAINT LUCIA +1758', 'SAINT VINCENT AND THE GRENADINES +1784', 'SAMOA +685', 'SAN MARINO +378', 'SAO TOME AND PRINCIPE +239', 'SAUDI ARABIA +966', 'SENEGAL +221', 'SEYCHELLES +248', 'SIERRA LEONE +232', 'SINGAPORE +65', 'SLOVAKIA +421', 'SLOVENIA +386', 'SOLOMON ISLANDS +677', 'SOMALIA +252', 'SOUTH AFRICA +27', 'SPAIN +34', 'SRI LANKA +94', 'SUDAN +249', 'SURINAME +597', 'SWAZILAND +268', 'SWEDEN +46', 'SWITZERLAND +41', 'SYRIAN ARAB REPUBLIC +963']
+		},
+		{
+			"letter": 'T',
+			"data": ['TAIWAN, PROVINCE OF CHINA +886', 'TAJIKISTAN +992', 'TANZANIA, UNITED REPUBLIC OF +255', 'THAILAND +66', 'TOGO +228', 'TONGA +676', 'TRINIDAD AND TOBAGO +1809', 'TUNISIA +216', 'TURKEY +90', 'TURKMENISTAN +993']
+		},
+		{
+			"letter": 'U',
+			"data":  ['UGANDA +256', 'UKRAINE +380', 'UNITED ARAB EMIRATES +971', 'UNITED KINGDOM +44', 'UNITED STATES +1', 'URUGUAY +598', 'UZBEKISTAN +233']
+		},
+		{
+			"letter": 'V',
+			"data": ['VENEZUELA, BOLIVARIAN REPUBLIC OF +58', 'VIET NAM +84']
+		},
+		{
+			"letter": 'Y',
+			"data": ['YEMEN +967']
+		},
+		{
+			"letter": 'Z',
+			"data": ['ZAMBIA +260', 'ZIMBABWE +263']
+		}
+	]
+}

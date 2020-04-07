@@ -1,0 +1,12 @@
+.artist.data-v-02071760 {
+  padding: 20rpx;
+}
+.artist .title.data-v-02071760 {
+  margin-bottom: 20rpx;
+  font-size: 50rpx;
+}
+.artist .content.data-v-02071760 {
+  line-height: 50rpx;
+  word-break: break-all;
+}
+

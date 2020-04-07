@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "注册",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "简体中文",
+        "fontSize": "14",
+        "select": true,
+        "width": "auto"
+      }
+    ]
+  },
+  "usingComponents": {
+    "mpvue-picker": "/components/mpvue-picker/mpvuePicker",
+    "inline-input": "/components/inlineInput",
+    "count-down": "/components/countDown"
+  }
+}

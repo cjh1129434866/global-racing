@@ -1,0 +1,19 @@
+.changeNickName.data-v-baba0700 {
+  padding: 20rpx;
+}
+.changeNickName .form .inp.data-v-baba0700 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.changeNickName .form .inp .text.data-v-baba0700 {
+  width: 15%;
+}
+.changeNickName .form .inp .inpDom.data-v-baba0700 {
+  width: 85%;
+}
+.changeNickName .form .submitBtn.data-v-baba0700 {
+  margin-top: 50rpx;
+}
+

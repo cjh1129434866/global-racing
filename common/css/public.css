@@ -1,0 +1,52 @@
+body{
+	background: #000066;
+}
+.bodyBg{
+	width: 100%;
+	height: 100%;
+}
+.borderbox{
+	box-sizing: border-box;
+}
+.alignCenter{
+	text-align: center;
+}
+.baseBgColor{
+	background: #000066;
+}
+.baseFontColor{
+	color: #fff;
+}
+.frontColor{
+	background: #003366;
+}
+.hightLightText{
+	color: #F29304;
+}
+.boxShadow1{
+	box-shadow: 0 10upx 20upx rgba(0, 0, 0, .3);
+}
+
+.fontSize28{
+	font-size: 28upx;
+}
+
+.fontSize30{
+	font-size: 30upx;
+}
+
+.borderRadius5{
+	border-radius: 5upx;
+}
+
+.borderRadius10{
+	border-radius: 10upx;
+}
+
+.heightLightTextColor{
+	color: #007AFF;
+}
+
+.fontWeightBold {
+	font-weight: bold;
+}
