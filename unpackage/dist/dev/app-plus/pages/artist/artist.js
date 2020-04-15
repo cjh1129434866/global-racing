@@ -1,2 +1,0 @@
-setCssToHead([".",[1],"artist.",[1],"data-v-02071760 { padding: ",[0,20],"; }\n.",[1],"artist .",[1],"title.",[1],"data-v-02071760 { margin-bottom: ",[0,20],"; font-size: ",[0,50],"; }\n.",[1],"artist .",[1],"content.",[1],"data-v-02071760 { line-height: ",[0,50],"; word-break: break-all; }\n",],undefined,{path:"./pages/artist/artist.wxss"})();
-document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/artist/artist.wxml') } }));

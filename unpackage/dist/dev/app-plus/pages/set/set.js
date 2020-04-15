@@ -1,2 +1,0 @@
-setCssToHead([".",[1],"set.",[1],"data-v-4ddd9546 { padding: ",[0,20],"; }\n.",[1],"set .",[1],"marginAuto .",[1],"exit.",[1],"data-v-4ddd9546 { margin-top: ",[0,50],"; }\n.",[1],"set .",[1],"marginAuto .",[1],"exit wx-button.",[1],"data-v-4ddd9546 { width: 90%; }\n",],undefined,{path:"./pages/set/set.wxss"})();
-document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/set/set.wxml') } }));

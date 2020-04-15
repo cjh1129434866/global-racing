@@ -1,2 +1,0 @@
-setCssToHead([".",[1],"changeLoginPw .",[1],"info.",[1],"data-v-39c692c2 { padding: ",[0,20],"; }\n.",[1],"changeLoginPw .",[1],"btn.",[1],"data-v-39c692c2 { margin-top: ",[0,50],"; }\n.",[1],"changeLoginPw .",[1],"btn wx-button.",[1],"data-v-39c692c2 { width: 90%; }\n",],undefined,{path:"./pages/changeLoginPw/changeLoginPw.wxss"})();
-document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/changeLoginPw/changeLoginPw.wxml') } }));
