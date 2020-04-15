@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "国家编号",
-  "usingComponents": {
-    "uni-indexed-list": "/components/uni-indexed-list/uni-indexed-list"
-  }
-}

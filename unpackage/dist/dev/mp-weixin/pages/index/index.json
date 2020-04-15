@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "环球快车",
-  "usingComponents": {
-    "uni-notice-bar": "/components/uni-notice-bar/uni-notice-bar"
-  }
-}

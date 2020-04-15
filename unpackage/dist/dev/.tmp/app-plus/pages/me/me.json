@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "我的",
-  "titleNView": false,
-  "usingComponents": {
-    "uni-tag": "/components/uni-tag/uni-tag"
-  }
-}
